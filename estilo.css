@@ -1,0 +1,19 @@
+body {
+    background-color: #123696;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #1BEEF5;
+    text-align: center;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: square;
+}
